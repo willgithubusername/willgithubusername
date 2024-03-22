@@ -1,16 +1,16 @@
-### Hi there 👋
+### Greeting there internet traveler!
+My name is Liam and i am a Software developer/Programmer in my spare time but am interested in doing it full time for a living.
 
-<!--
-**willgitlab/willgitlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently program primarily in Java, Python, C++ and occasionally Rust when needed. I am always interested in learning new languages and expanding my portfolio with projects of multiple languages.
 
-Here are some ideas to get you started:
+### What im currently working on.
+In recent time ive found myself involved in less projects due to schooling but im working on the following
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Active Developer for MinecraftOnline.com
+* Developing a custom homemade Home automation system for my home.
+* ill add more later -will
+
+### Get in touch!
+Best ways to get in contact with me.
+[My Telegram] https://t.me/willagram
+My discord --> (usernamewill)
