@@ -12,5 +12,5 @@ In recent time ive found myself involved in less projects due to schooling but i
 
 ### Get in touch!
 Best ways to get in contact with me.
-[My Telegram](https://t.me/willagram)
-My discord --> (usernamewill)
+* [My Telegram](https://t.me/willagram)
+* My discord --> (usernamewill)
