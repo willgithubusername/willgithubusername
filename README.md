@@ -10,7 +10,7 @@ In recent time ive found myself involved in less projects due to schooling but i
 * Developing a custom homemade Home automation system for my home.
 * ill add more later -will
 
-### Get in touch!
+### Contact Me!
 Best ways to get in contact with me.
 * [My Telegram](https://t.me/willagram)
 * My discord --> (usernamewill)
