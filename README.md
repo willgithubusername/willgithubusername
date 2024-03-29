@@ -15,4 +15,4 @@ Best ways to get in contact with me.
 * [My Telegram](https://t.me/willagram)
 * My discord --> (usernamewill)
 
-* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willgitlab)](https://github.com/willgitlab/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willgitlab)](https://github.com/willgitlab/github-readme-stats)
